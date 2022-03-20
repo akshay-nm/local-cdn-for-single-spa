@@ -1,0 +1,12 @@
+{
+  "name": "local-cdn-for-single-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "servor": "^4.0.2"
+  },
+  "scripts": {
+    "start": "servor served index.html 3002"
+  }
+}
